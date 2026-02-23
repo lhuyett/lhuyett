@@ -1,16 +1,13 @@
-## Hi there 👋
+# Luke Huyett
 
-<!--
-**lhuyett/lhuyett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧭 Mission
+Cybersecurity student focused on secure system design, threat analysis, and professional incident-style documentation.
 
-Here are some ideas to get you started:
+## 🧰 Toolkit
+**Operating Systems:** Windows, Linux  
+**Security Tooling:** Wireshark, OWASP ZAP  
+**Languages:** Python, SQL  
+**Frameworks:** NIST CSF (familiarity), basic risk/compliance concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Highlights
+Pinned repositories below show my strongest documented work (labs/projects with proof and troubleshooting notes).
