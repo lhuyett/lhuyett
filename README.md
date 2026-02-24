@@ -24,4 +24,4 @@ Creating an engineering log helps you stay organized and document technical work
 
 ## 📸 Proof of Work
 
-![Terminal Clone Success](terminal.png)
+![Terminal Clone Success](assets/lab-01/terminal.png)
